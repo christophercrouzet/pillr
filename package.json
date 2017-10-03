@@ -5,7 +5,13 @@
   "main": "index.js",
   "author": "Christopher Crouzet",
   "license": "MIT",
-  "keywords": ["framework", "generator", "markdown", "static", "site"],
+  "keywords": [
+    "framework",
+    "generator",
+    "markdown",
+    "static",
+    "site"
+  ],
   "repository": "christophercrouzet/pillr",
   "homepage": "https://github.com/christophercrouzet/pillr",
   "bugs": "https://github.com/christophercrouzet/pillr/issues",
